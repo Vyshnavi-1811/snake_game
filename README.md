@@ -21,7 +21,7 @@ When the head of the snake touches its own body,the game ends and your score wil
 - Left Arrow - turns left
 - Right Arrow - turns right
 
-###Contributors
+## Contributors
 
 https://github.com/Vyshnavi-1811/snake_game.git .
 
